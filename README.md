@@ -16,3 +16,5 @@ generate notes from a keyboard emulator.
 
 The input peripherals are read and update waveform settings every 1ms. The
 DAC is written to every 25us yielding a 40 kHz sampling rate.
+
+![Synth PCB](SynthPCB.png)
